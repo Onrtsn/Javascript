@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Onur Tosun",
+        "department":"Developer",
+        "salary":3500
+    },
+    {
+        "name":"Talip Çakal",
+        "department":"Developer",
+        "salary":3500
+    },
+    {
+        "name":"Nejat Çakal",
+        "department":"Senior Developer",
+        "salary":8000
+    }
+]
